@@ -1,5 +1,5 @@
 # Auto Clicker
-
+#### Project Showcase: https://youtu.be/dOaPg-ak_g0
 This Python script provides a basic auto-clicking functionality using the `pynput` library.
 
 ## Prerequisites
